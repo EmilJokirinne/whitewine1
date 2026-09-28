@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Lasi viileää valkoviiniä, viinirypäleitä ja sitruunaa"><title>Lasi viileää valkoviiniä, viinirypäleitä ja sitruunaa</title><defs><linearGradient id="wine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4E6B2"/><stop offset="1" stop-color="#E0C57A"/></linearGradient><radialGradient id="soft" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="1000" fill="#EEE8DB"/>
+<circle cx="560" cy="300" r="250" fill="#E8D7AE" fill-opacity=".55"/>
+<circle cx="560" cy="300" r="250" fill="none" stroke="#C8A96A" stroke-opacity=".35"/>
+<circle cx="560" cy="300" r="290" fill="none" stroke="#C8A96A" stroke-opacity=".18"/>
+<g stroke="#2A2824" stroke-opacity=".12">
+  <line x1="80" y1="120" x2="80" y2="740"/><line x1="720" y1="80" x2="720" y2="200"/>
+</g>
+
+<g transform="translate(90 250) rotate(-40) scale(1.6)">
+  <path d="M0 0 C18 -26 52 -30 76 -8 C52 14 20 14 0 0 Z" fill="#C9CFB8"/>
+  <path d="M4 -1 C28 -8 50 -9 70 -8" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1.6" fill="none"/>
+</g>
+<g transform="translate(110 300) rotate(-10) scale(1.2)">
+  <path d="M0 0 C18 -26 52 -30 76 -8 C52 14 20 14 0 0 Z" fill="#8F9A7C"/>
+  <path d="M4 -1 C28 -8 50 -9 70 -8" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1.6" fill="none"/>
+</g>
+<rect x="0" y="760" width="800" height="240" fill="#DDD4C1"/>
+<rect x="0" y="760" width="800" height="2" fill="#CFC5AF"/>
+
+<g transform="rotate(-4 650.0 885.0)">
+  <rect x="500" y="800" width="300" height="170" rx="6" fill="#E8D7AE"/>
+  <g stroke="#FFFFFF" stroke-opacity=".35" stroke-width="1.4"><line x1="514" y1="824" x2="786" y2="824" /><line x1="514" y1="846" x2="786" y2="846" /><line x1="514" y1="868" x2="786" y2="868" /><line x1="514" y1="890" x2="786" y2="890" /><line x1="514" y1="912" x2="786" y2="912" /><line x1="514" y1="934" x2="786" y2="934" /><line x1="514" y1="956" x2="786" y2="956" /></g>
+</g>
+
+<g transform="translate(400 296) scale(1.0)">
+  <clipPath id="clip-hero"><path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z"/></clipPath>
+  <ellipse cx="0" cy="478" rx="150" ry="18" fill="url(#soft)"/>
+  <path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z" fill="#FFFFFF" fill-opacity=".28"/>
+  <g clip-path="url(#clip-hero)">
+    <rect x="-140" y="136.0" width="280" height="320" fill="url(#wine)"/>
+    <ellipse cx="0" cy="136.0" rx="124" ry="9" fill="#F8EFCB"/>
+    <path d="M-92 166.0 C-100 226.0 -80 276.0 -40 306.0" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z" fill="none" stroke="#7E7A6E" stroke-opacity=".55" stroke-width="2.2"/>
+  <ellipse cx="0" cy="0" rx="120" ry="7" fill="none" stroke="#7E7A6E" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M-96 26 C-104 90 -94 150 -70 196" stroke="#FFFFFF" stroke-opacity=".75" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M84 40 C90 80 88 110 80 138" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M-6 270 L-5 462 L5 462 L6 270 Z" fill="#FFFFFF" fill-opacity=".55" stroke="#7E7A6E" stroke-opacity=".5" stroke-width="1.6"/>
+  <ellipse cx="0" cy="464" rx="96" ry="13" fill="#FFFFFF" fill-opacity=".6" stroke="#7E7A6E" stroke-opacity=".5" stroke-width="1.8"/>
+  <g fill="#FFFFFF" fill-opacity=".7">
+    <circle cx="-60" cy="196.0" r="2.4"/><circle cx="-38" cy="228.0" r="1.8"/>
+    <circle cx="46" cy="210.0" r="2.2"/><circle cx="62" cy="254.0" r="1.6"/>
+    <circle cx="-18" cy="266.0" r="2"/><circle cx="24" cy="176.0" r="1.6"/>
+  </g>
+</g>
+
+<g transform="translate(180 720) scale(0.95)">
+  <path d="M0 -40 C4 -62 14 -76 30 -84" stroke="#7B6A4A" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+<g transform="translate(24 -80) rotate(-20) scale(0.9)">
+  <path d="M0 0 C18 -26 52 -30 76 -8 C52 14 20 14 0 0 Z" fill="#8F9A7C"/>
+  <path d="M4 -1 C28 -8 50 -9 70 -8" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1.6" fill="none"/>
+</g>
+  <circle cx="0" cy="0" r="15" fill="#A4AE78"/><circle cx="-5" cy="-5" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="-26" cy="-6" r="15" fill="#B9C28F"/><circle cx="-31" cy="-11" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="26" cy="-6" r="15" fill="#B9C28F"/><circle cx="21" cy="-11" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="-13" cy="20" r="15" fill="#A4AE78"/><circle cx="-18" cy="15" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="13" cy="20" r="15" fill="#B9C28F"/><circle cx="8" cy="15" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="-40" cy="-30" r="15" fill="#B9C28F"/><circle cx="-45" cy="-35" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="0" cy="-30" r="15" fill="#A4AE78"/><circle cx="-5" cy="-35" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="40" cy="-30" r="15" fill="#B9C28F"/><circle cx="35" cy="-35" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="0" cy="44" r="15" fill="#B9C28F"/><circle cx="-5" cy="39" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="-26" cy="44" r="15" fill="#A4AE78"/><circle cx="-31" cy="39" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="26" cy="44" r="15" fill="#B9C28F"/><circle cx="21" cy="39" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="-13" cy="66" r="15" fill="#B9C28F"/><circle cx="-18" cy="61" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="13" cy="66" r="15" fill="#A4AE78"/><circle cx="8" cy="61" r="4" fill="#FFFFFF" fill-opacity=".45"/><circle cx="0" cy="88" r="15" fill="#B9C28F"/><circle cx="-5" cy="83" r="4" fill="#FFFFFF" fill-opacity=".45"/>
+</g>
+
+<g transform="translate(640 860) rotate(0) scale(1.1)">
+  <path d="M-50 0 A50 50 0 0 1 50 0 Z" fill="#EFD77A"/>
+  <path d="M-42 -2 A42 42 0 0 1 42 -2 Z" fill="#F7E8A6"/>
+  <g stroke="#EFD77A" stroke-width="2.4">
+    <line x1="0" y1="-2" x2="0" y2="-40"/><line x1="0" y1="-2" x2="-28" y2="-29"/>
+    <line x1="0" y1="-2" x2="28" y2="-29"/><line x1="0" y1="-2" x2="-39" y2="-12"/>
+    <line x1="0" y1="-2" x2="39" y2="-12"/>
+  </g>
+</g>
+</svg>

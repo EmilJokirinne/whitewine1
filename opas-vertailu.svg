@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Kaksi valkoviinilasia rinnakkain"><title>Kaksi valkoviinilasia rinnakkain</title><defs><linearGradient id="wine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4E6B2"/><stop offset="1" stop-color="#E0C57A"/></linearGradient><radialGradient id="soft" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="560" fill="#EFE8D8"/>
+<rect x="400" y="0" width="400" height="560" fill="#E4E7D8"/>
+<line x1="400" y1="60" x2="400" y2="500" stroke="#2A2824" stroke-opacity=".15"/>
+<rect x="0" y="470" width="800" height="90" fill="#DCD3BF"/>
+
+<g transform="translate(220 120) scale(0.72)">
+  <clipPath id="clip-a"><path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z"/></clipPath>
+  <ellipse cx="0" cy="478" rx="150" ry="18" fill="url(#soft)"/>
+  <path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z" fill="#FFFFFF" fill-opacity=".28"/>
+  <g clip-path="url(#clip-a)">
+    <rect x="-140" y="136.0" width="280" height="320" fill="url(#wine)"/>
+    <ellipse cx="0" cy="136.0" rx="124" ry="9" fill="#F8EFCB"/>
+    <path d="M-92 166.0 C-100 226.0 -80 276.0 -40 306.0" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z" fill="none" stroke="#7E7A6E" stroke-opacity=".55" stroke-width="2.2"/>
+  <ellipse cx="0" cy="0" rx="120" ry="7" fill="none" stroke="#7E7A6E" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M-96 26 C-104 90 -94 150 -70 196" stroke="#FFFFFF" stroke-opacity=".75" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M84 40 C90 80 88 110 80 138" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M-6 270 L-5 462 L5 462 L6 270 Z" fill="#FFFFFF" fill-opacity=".55" stroke="#7E7A6E" stroke-opacity=".5" stroke-width="1.6"/>
+  <ellipse cx="0" cy="464" rx="96" ry="13" fill="#FFFFFF" fill-opacity=".6" stroke="#7E7A6E" stroke-opacity=".5" stroke-width="1.8"/>
+  <g fill="#FFFFFF" fill-opacity=".7">
+    <circle cx="-60" cy="196.0" r="2.4"/><circle cx="-38" cy="228.0" r="1.8"/>
+    <circle cx="46" cy="210.0" r="2.2"/><circle cx="62" cy="254.0" r="1.6"/>
+    <circle cx="-18" cy="266.0" r="2"/><circle cx="24" cy="176.0" r="1.6"/>
+  </g>
+</g>
+<svg x="0" y="0" width="800" height="560" viewBox="0 0 800 560">
+<defs><linearGradient id="wine2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F3F0C4"/><stop offset="1" stop-color="#DCE0A0"/></linearGradient></defs>
+</svg>
+
+<g transform="translate(580 120) scale(0.72)">
+  <clipPath id="clip-b"><path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z"/></clipPath>
+  <ellipse cx="0" cy="478" rx="150" ry="18" fill="url(#soft)"/>
+  <path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z" fill="#FFFFFF" fill-opacity=".28"/>
+  <g clip-path="url(#clip-b)">
+    <rect x="-140" y="136.0" width="280" height="320" fill="#E4E3A6"/>
+    <ellipse cx="0" cy="136.0" rx="124" ry="9" fill="#F8EFCB"/>
+    <path d="M-92 166.0 C-100 226.0 -80 276.0 -40 306.0" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <path d="M-120 0 C-132 115 -106 250 0 272 C106 250 132 115 120 0 Z" fill="none" stroke="#7E7A6E" stroke-opacity=".55" stroke-width="2.2"/>
+  <ellipse cx="0" cy="0" rx="120" ry="7" fill="none" stroke="#7E7A6E" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M-96 26 C-104 90 -94 150 -70 196" stroke="#FFFFFF" stroke-opacity=".75" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M84 40 C90 80 88 110 80 138" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M-6 270 L-5 462 L5 462 L6 270 Z" fill="#FFFFFF" fill-opacity=".55" stroke="#7E7A6E" stroke-opacity=".5" stroke-width="1.6"/>
+  <ellipse cx="0" cy="464" rx="96" ry="13" fill="#FFFFFF" fill-opacity=".6" stroke="#7E7A6E" stroke-opacity=".5" stroke-width="1.8"/>
+  <g fill="#FFFFFF" fill-opacity=".7">
+    <circle cx="-60" cy="196.0" r="2.4"/><circle cx="-38" cy="228.0" r="1.8"/>
+    <circle cx="46" cy="210.0" r="2.2"/><circle cx="62" cy="254.0" r="1.6"/>
+    <circle cx="-18" cy="266.0" r="2"/><circle cx="24" cy="176.0" r="1.6"/>
+  </g>
+</g>
+</svg>
